@@ -6,7 +6,7 @@
 #
 amqp==5.1.1
     # via kombu
-awscli==1.25.72
+awscli==1.44.78
     # via -r requirements/jenkins.in
 backoff==1.4.3
     # via -r requirements/jenkins.in
